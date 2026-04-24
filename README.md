@@ -41,5 +41,5 @@ Ce projet est conçu en "Zero-Setup" (aucune dépendance ou installation requise
 - **Département :** Automatique
 - **Année Universitaire :** 2025-2026
 - **Module :** Systèmes Non Linéaires
-- **Enseignant :** Professeur Menani
+- **Enseignant :** Professeur Gherouat
 - **Développé et rédigé par :** Dahane Ahmed Lamine
